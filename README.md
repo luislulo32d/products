@@ -7,9 +7,6 @@ Descripción breve del proyecto. Este proyecto es una aplicación web que permit
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Características
 
